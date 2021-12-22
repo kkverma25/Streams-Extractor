@@ -9,8 +9,8 @@
         "TroJanzHEX"
     ],
     "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Streams-Extractor",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "repository": "https://github.com/kkverma25/Streams-Extractor",
+    "success_url": "https://telegram.dog/your_devil_dad",
     "env": {
         "BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
