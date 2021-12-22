@@ -13,7 +13,7 @@ Send me any video file and extract what you want :).
 
 See <i>help</i> for more details.
 
-© @TroJanzHEX</b>"""
+© @D_E_V_l_L</b>"""
 
 
     HELP_MSG = """<b>Hai, Follow these Steps..</b>
@@ -26,12 +26,12 @@ See <i>help</i> for more details.
 
 🌀 <i>Now select the stream you need to extract!</i>
 
-<b>© @TroJanzHEX</b>"""
+<b>© **@D_E_V_l_L** """
 
 
     ABOUT_MSG = """⭕️<b>My Name : Streams Extractor Bot</b>
 
-⭕️<b>Creater :</b> @TroJanzHEX    
+⭕️<b>Creater :</b> @D_E_V_l_L    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
