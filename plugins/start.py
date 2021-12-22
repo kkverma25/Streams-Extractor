@@ -66,7 +66,7 @@ async def about(client, message):
                 ],
                 [
                     InlineKeyboardButton(
-                        "SOURCE CODE", url="https://github.com/TroJanzHEX/Streams-Extractor")
+                        "SOURCE CODE", url="https://github.com/kkverma25/Streams-Extractor")
                 ]
             ]
         ),
